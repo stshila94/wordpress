@@ -1,3 +1,3 @@
 <?php
-echo 'Hello World: I am here for developing wordpress';
+echo 'Hello World: I am here for developing wordpress template and website';
 ?>
